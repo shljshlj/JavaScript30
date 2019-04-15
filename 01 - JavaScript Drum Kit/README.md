@@ -3,6 +3,3 @@
 # 01 - Drum Kit
 
 key event listener, audio play and toggle class.
-
-hm hm hmmm
-hmmmmmmdfjfdjkdfdf
